@@ -4,6 +4,14 @@
 
 # Rena Developer
 
+## Sviluppo e sicurezza
+
+Questo repository contiene i file principali dell'applicazione PHP/HTML.
+Prima del deploy verificare la sintassi PHP con `php -l` e configurare le
+credenziali del database fuori dal repository. Dependabot controlla
+settimanalmente le GitHub Actions; non ci sono manifest Composer presenti in
+questa versione.
+
 <img src="https://renaarcade.altervista.org/flagit.png" alt="IT" width="50"> 
 
 # IT
